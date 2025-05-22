@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Gestão de Operações de PR V2",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 14,
+    "name": "Recuperação e extração de dados",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 15,
+    "name": "Correspondência e recomendações",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 16,
+    "name": "Processo de revisão e decisão",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

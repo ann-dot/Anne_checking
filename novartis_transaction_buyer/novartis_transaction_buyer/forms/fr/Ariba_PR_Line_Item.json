@@ -1,0 +1,38 @@
+[
+  {
+    "id": null,
+    "fieldName": null,
+    "name": "Détails supplémentaires sur les postes budgétaires",
+    "description": null,
+    "helpText": null,
+    "errorMessage": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "formTitle",
+    "reportName": null
+  },
+  {
+    "id": 1,
+    "fieldName": null,
+    "name": "Postes budgétaires",
+    "description": null,
+    "helpText": null,
+    "errorMessage": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "section",
+    "reportName": null
+  },
+  {
+    "id": 31,
+    "fieldName": "q31__p_Recommended_Commodity_Codes",
+    "name": "<p>Codes des produits recommandés</p>",
+    "description": null,
+    "helpText": null,
+    "errorMessage": null,
+    "listItemPrefix": null,
+    "choices": null,
+    "type": "field",
+    "reportName": null
+  }
+]

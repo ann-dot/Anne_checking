@@ -1,0 +1,41 @@
+[
+  {
+    "id": "PR Operations Management V2",
+    "requestName": "Gestion des opérations de RP",
+    "shortDescription": "Gestion des opérations de RP",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Basic": "Simple",
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Supplier": "Fournisseur",
+      "Budget": "Budget",
+      "IT": "TI",
+      "Review": "Examen"
+    },
+    "engagementAttributes": {
+      "Requisition ID": "ID de la demande"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "Demandez à l’IA d’ORO",
+    "shortDescription": "Guider les utilisateurs vers le bon canal",
+    "stepTitles": {
+      "Procurement": "Achats",
+      "Basic": "Simple",
+      "Details": "Détails",
+      "Compliance": "Conformité",
+      "Quality": "Qualité",
+      "Documents": "Documents",
+      "Legal": "Juridique",
+      "Supplier": "Fournisseur",
+      "Budget": "Budget",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  }
+]

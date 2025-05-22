@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Review and Decision Process",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 5,
+    "name": "Update Reviewer Comments",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Transactional Buyer Review",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 11,
+    "name": "Send Result to Ariba",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

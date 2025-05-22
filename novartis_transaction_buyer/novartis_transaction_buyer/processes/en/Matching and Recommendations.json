@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "name": "Matching and Recommendations",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Category Recommendations",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "PR vs Document Matching",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

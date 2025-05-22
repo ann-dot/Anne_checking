@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "name": "Correspondance et recommandations",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Recommandations de catégorie",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "RP vs mise en correspondance des documents",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

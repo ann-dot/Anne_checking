@@ -1,0 +1,23 @@
+[
+  {
+    "id": null,
+    "name": "Correspondência e recomendações",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Recomendação de categoria",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "PR vs Correspondência de documentos",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

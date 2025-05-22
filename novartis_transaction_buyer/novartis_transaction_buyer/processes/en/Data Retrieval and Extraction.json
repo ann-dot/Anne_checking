@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Data Retrieval and Extraction",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Retrieve Attachments from AGB",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 4,
+    "name": "Check for Email Approvals",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "Document Extraction",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

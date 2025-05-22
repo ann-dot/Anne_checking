@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Processus d'examen et de décision",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 5,
+    "name": "Mise à jour des commentaires des évaluateurs",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Examen de l'acheteur transactionnel",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 11,
+    "name": "Envoyer le résultat à Ariba",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "PR Operations Management V2",
+    "requestName": "Gestão de operações de PR",
+    "shortDescription": "Gestão de operações de PR",
+    "stepTitles": {
+      "Procurement": "Aprovisionamento",
+      "Basic": "Básico",
+      "Details": "Detalhes",
+      "Compliance": "Conformidade",
+      "Quality": "Qualidade",
+      "Documents": "Documentos",
+      "Legal": "Jurídico",
+      "Supplier": "Fornecedor",
+      "Budget": "Orçamento",
+      "IT": "TI",
+      "Review": "Revisão"
+    },
+    "engagementAttributes": {
+      "Requisition ID": "ID de requisição"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "Perguntar à IA da ORO",
+    "shortDescription": "Orientar os utilizadores para o canal certo",
+    "stepTitles": {
+      "Procurement": "Aprovisionamento",
+      "Basic": "Básico",
+      "Details": "Detalhes",
+      "Compliance": "Conformidade",
+      "Quality": "Qualidade",
+      "Documents": "Documentos",
+      "Legal": "Jurídico",
+      "Supplier": "Fornecedor",
+      "Budget": "Orçamento",
+      "IT": "TI"
+    },
+    "engagementAttributes": null
+  }
+]

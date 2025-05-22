@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Recherche et extraction de données",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Récupérer les pièces jointes d'AGB",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 4,
+    "name": "Vérifier les approbations par courriel",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "Extraction de documents",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

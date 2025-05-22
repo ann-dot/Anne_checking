@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Recuperação e extração de dados",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Recuperar anexos do AGB",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 4,
+    "name": "Verificar as aprovações por correio eletrónico",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 3,
+    "name": "Extração de documentos",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

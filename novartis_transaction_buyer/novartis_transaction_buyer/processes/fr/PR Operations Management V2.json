@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Gestion des opérations de RP V2",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 14,
+    "name": "Recherche et extraction de données",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 15,
+    "name": "Correspondance et recommandations",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 16,
+    "name": "Processus d'examen et de décision",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]

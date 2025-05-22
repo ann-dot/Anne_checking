@@ -1,0 +1,41 @@
+[
+  {
+    "id": "PR Operations Management V2",
+    "requestName": "PR Operations Management",
+    "shortDescription": "PR Operations Management",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT",
+      "Review": "Review"
+    },
+    "engagementAttributes": {
+      "Requisition ID": "Requisition ID"
+    }
+  },
+  {
+    "id": "Ask ORO AI",
+    "requestName": "Ask ORO AI",
+    "shortDescription": "Guiding users to the right channel",
+    "stepTitles": {
+      "Procurement": "Procurement",
+      "Basic": "Basic",
+      "Details": "Details",
+      "Compliance": "Compliance",
+      "Quality": "Quality",
+      "Documents": "Documents",
+      "Legal": "Legal",
+      "Supplier": "Supplier",
+      "Budget": "Budget",
+      "IT": "IT"
+    },
+    "engagementAttributes": null
+  }
+]

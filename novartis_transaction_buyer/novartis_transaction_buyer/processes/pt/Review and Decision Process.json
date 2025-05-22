@@ -1,0 +1,30 @@
+[
+  {
+    "id": null,
+    "name": "Processo de revisão e decisão",
+    "type": "processTitle",
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 5,
+    "name": "Atualizar os comentários dos revisores",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 2,
+    "name": "Revisão do comprador transacional",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  },
+  {
+    "id": 11,
+    "name": "Enviar resultado para Ariba",
+    "type": null,
+    "description": null,
+    "customLabel": null
+  }
+]
